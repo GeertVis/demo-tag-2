@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Geert Vissers
 
 # TECHNOLOGY COLOPHON
 
